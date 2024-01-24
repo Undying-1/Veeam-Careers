@@ -16,7 +16,7 @@ Please before clone the project install chrome-driver into your computer.
 
 **For Linux users only** Create virtual enviroment with name **venv**
 
-### Installing
+### Installing for Linux users
 The command below will run the file and it will activate venv, install all required packages and run tests
 
 To run the project, on your locale machine for Linux use

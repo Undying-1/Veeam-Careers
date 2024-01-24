@@ -20,7 +20,7 @@ class TestCareersPage(BaseTest):
         
         assert careers_page.get_open_jobs() == DataReader.get_careers_total_jobs
         
-        
+    
         
         
         
